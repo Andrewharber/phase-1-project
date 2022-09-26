@@ -1,0 +1,26 @@
+{
+  "NewYork": [
+    {
+      "id": 1,
+      "name": "Muddy paws rescue",
+      "state": "New York",
+      "city": "New York"
+    }
+  ],
+  "NewJersey": [
+    {
+      "id": 1,
+      "name": "Pawsitively furever dog rescue",
+      "state": "New Jersey",
+      "city": "Hackensack"
+    }
+  ],
+  "connecticut": [
+    {
+      "id": 1,
+      "name": "Halfway Home Rescue",
+      "state": "Connecticut",
+      "city": "New Haven"
+    }
+  ]
+}
