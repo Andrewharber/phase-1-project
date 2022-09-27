@@ -1,5 +1,5 @@
 body {
-    background-image:    url('images/pooch.JPG');
+    background-image:    url('imgs/pooch.JPG');
     background-size:     cover;                      /* <------ */
     background-repeat:   no-repeat;
     background-position: center center;              /* optional, center the image */
@@ -9,9 +9,6 @@ body {
     background-color: brown;
 }
 
-.rescueContainer{
-    background-color: white;
-}
 
 .newsLetter{
     background-color: bisque;
